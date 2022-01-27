@@ -1,0 +1,572 @@
+/* ParcelData */
+.map{
+    /* background-image: url("{{asset('images/map.png')}}") no-repeat center center; */
+    background-color: black;
+    height: 740px;
+    
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+}
+.parceldata{
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color:black;
+}
+.btn{
+    width: 93px;
+height: 39px;
+left: 1038px;
+top: 20px;
+
+/* Green */
+
+background: #66B145;
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Wight */
+
+color: #FFFFFF;
+}
+.deliver{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+
+}
+.service{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+}
+.frame{width: 130px;
+height: 103px;
+}
+.future{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 120%;
+/* or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.van {
+height: 400px;
+width: auto;
+}
+.vector{
+    background-image: url("{{asset('images/vector/vector1.jpg)}}");
+    height: 300px;
+    position: absolute;
+}
+.driver{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+/* identical to box height, or 42px */
+
+
+
+/* Green */
+
+color: #66B145;
+}
+.form{
+    background: #E9EAEA;
+/* Green */
+
+border: 3px solid #66B145;
+box-sizing: border-box;
+border-radius: 24px;
+height:640px;
+width: 530px;
+}
+.inputsize{
+    background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+
+
+
+}
+.address {
+
+background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+margin:0px 12px 0px 12px;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.signbtn{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Wight */
+
+color: #FFFFFF;
+    background: #BDBDBD;
+border-radius: 12px;
+
+/* Inside auto layout */
+
+
+order: 0;
+flex-grow: 0;
+margin-left:auto;
+}
+.term{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+
+/* Green */
+
+color: #66B145;
+}
+.log1{
+    
+background: #E9EAEA;
+/* Green */
+
+border: 3px solid #66B145;
+box-sizing: border-box;
+border-radius: 24px;
+height: 451px;
+width: 400px;
+
+
+
+}
+.logindata{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 120%;
+    /* or 42px */
+    
+    
+    /* Green */
+    
+    color: #66B145;
+}
+.username{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.log2{
+    background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+/* Black */
+
+color: #1B2218;
+}
+.check{
+    
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+
+/* Grey 3 */
+
+color: #828282;
+}
+.forgot{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+
+/* Green */
+
+color: #66B145;
+margin-left: 160px;
+}
+.btn1{
+    background: #66B145;
+border-radius: 12px;
+/* Button */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Wight */
+
+color: #FFFFFF;
+}
+.account{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+
+}
+.automation{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 90px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* Black */
+
+color: #1B2218;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 5px 0px;
+}
+.tracking{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+/* identical to box height, or 42px */
+
+
+/* Black */
+
+color: #1B2218;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 5px 0px;
+}
+.icon{
+    background-color: #BDBDBD;
+    color: #E9EAEA;
+}
+.driverupload{
+    height: 489px;
+width: 400px;
+
+border-radius: 24px;
+
+    background: #E9EAEA;
+/* Green */
+
+border: 3px solid #66B145;
+box-sizing: border-box;
+border-radius: 24px;
+}
+.upload{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+/* identical to box height, or 42px */
+
+
+/* Black */
+
+color: #1B2218;
+}
+.log3{
+    background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.btn4{
+    background: #66B145;
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+
+color: #F4F5F5;
+}
+.table1{
+    width: 220px;
+height: 863px;
+
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+.text1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #828282;
+}
+.marginchat{
+margin-top: 450px;
+}
+.tablebutton{
+    background: #1B2218;
+border-radius: 12px;
+/* Button */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Wight */
+
+color: #FFFFFF;
+
+}
+.search{
+    background: #FFFFFF;
+    height: 40px;
+    width: 236px;
+    
+    border-radius: 12px;
+    
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.tabledate{
+    background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+height: 40px;
+width: 130px;
+
+border-radius: 12px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 20px;
+}
+.head{
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 120%;
+/* identical to box height, or 18px */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+.test{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+/* identical to box height, or 18px */
+
+
+color: #000000;
+background: #FFFFFF;
+border-radius: 0px;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+  }
+  .totel1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 120%;
+    /* or 14px */
+    
+    
+    color: #000000;
+  }
+  .price{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    
+    
+    color: #000000;
+  }
+  .inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+    
+}
+.inputfile + label {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    
+
+
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: red;
+}
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+}
+.lable1{
+    font-size: 15px ;
+    color: #828282;
+    border: 2px solid  #FFFFFF;
+    padding:10px;cursor: pointer;
+    width: 40px;
+    height: 40px;
+    
+    
+    background: #FFFFFF;
+    box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+    border-radius: 12px;
+}
+  

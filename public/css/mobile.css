@@ -1,0 +1,211 @@
+.member{
+    height: 418px;
+width: 300px;
+
+border-radius: 15px;
+background: #FFFFFF;
+box-shadow: 13px 3px 17px rgba(0, 0, 0, 0.17);
+
+
+}
+.dashoard{
+    height: 126px;
+width: 256px;
+
+border-radius: 12px;
+
+background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .parceldata{
+        text-align: center;
+    }
+    .log1{
+        height: 451px;
+width: 300px;
+left: 0px;
+top: 0px;
+border-radius: 24px;
+margin-left:100px;
+
+    }
+    .vector{
+        display: none;
+    }
+    .logindata{
+        font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+
+
+color: #66B145;
+text-align: center;
+    }
+    .username{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+
+
+color: #828282;
+    }
+    .log2{
+        background: #FFFFFF;
+box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.17);
+        height: 41px;
+width: 220px;
+
+border-radius: 12px;
+
+    }
+    .forgot{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+
+
+color: #66B145;
+    }
+    .check{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 150%;
+
+
+color: #828282;
+    }
+    .forgot{
+        margin-left: 60px;
+    }
+    .account{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+margin-bottom: 30px;
+
+color: #828282;
+    }
+    .form{
+        height: 1104px;
+width: 300px;
+left: 0px;
+top: 0px;
+border-radius: 24px;
+margin-left: 86px;
+margin-bottom: 10px;
+
+    }
+    .driver{
+        text-align: center;
+        font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 120%;
+
+
+color: #66B145;
+    }
+    .term{
+    
+        margin-left:30px;
+        margin-top: 50px;
+    }
+    .signbtn{
+
+        width: 100%;
+        background: #66B145;
+border-radius: 12px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+
+
+
+color: #FFFFFF;
+    }
+    .automation{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+text-align: center;
+
+letter-spacing: -0.02em;
+
+color: #1B2218;
+    }
+    .tracking{
+        font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 120%;
+text-align:center;
+
+color: #1B2218;
+    }
+    .display{
+        display: none;
+    }
+    .driverupload{
+        border: 0px;
+        border-radius: 0px;
+        margin-left: 40px;
+        background-color:white;
+    }
+    .upload{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+
+
+color: #828282;
+
+    }
+    .deliver{
+        font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 120%;
+text-align: center;
+color: #1B2218;
+
+    }
+    .service{
+        display: none;
+    }
+    .future {
+        font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 120%;
+
+
+text-align: center;
+
+color: #828282;
+    }
+  }
